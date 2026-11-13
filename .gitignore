@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+# ダウンロードした音楽・動画
+MusicDL/
+*.m4a
+*.mp3
+*.flac
+*.opus
+*.mp4

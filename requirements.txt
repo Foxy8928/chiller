@@ -1,0 +1,6 @@
+customtkinter
+yt-dlp[default]
+mutagen
+Pillow
+numpy
+sounddevice
